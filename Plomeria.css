@@ -91,7 +91,7 @@ nav a:hover {
 
 /* ------------------ HERO ------------------ */
 .hero {
-    background-image: url('Imagenes/fondo gasf.jpg');
+    background-image: url('fondo\ gasf.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

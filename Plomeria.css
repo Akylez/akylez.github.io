@@ -13,6 +13,7 @@ header {
     background-color: #007BFF;
     padding: 1rem 0;
     position: relative;
+    
 }
 
 .header-container {
@@ -22,6 +23,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 0 1rem;
+    
 }
 
 .logo-container {
@@ -45,14 +47,19 @@ h1 {
     margin: 0;
     font-size: 1.8rem;
     line-height: 1.2;
+    text-shadow: #333 1px 1px 3px;
+    font-weight: bolder;
+    text-align: center;
 }
 
 .slogan {
-   color: #FFD700;
+    color: #FFD700;
     font-size: 1.3rem;
     font-weight: 400;
     font-weight: bold;
     font-family: 'Montserrat', sans-serif;
+    text-shadow: #333 1px 1px 3px;
+    text-align: center;
 }
 
 nav {
@@ -84,7 +91,7 @@ nav a:hover {
 
 /* ------------------ HERO ------------------ */
 .hero {
-    background-image: url('Imagenes/fondo gasf.jpg');
+    background-image: url('fondo gasf.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
